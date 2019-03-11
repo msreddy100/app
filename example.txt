@@ -1,13 +1,1 @@
-git config --global user.email "madhu2818@gmail.com"
-git config --global user.name "msreddy"
-hari
-prasad
-madhu
-apple
-banana
-cat
-dog
-a
-b
-c
-d
+
