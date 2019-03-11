@@ -3,4 +3,7 @@ git config --global user.name "msreddy"
 hari
 prasad
 madhu
-
+apple
+banana
+cat
+dog
